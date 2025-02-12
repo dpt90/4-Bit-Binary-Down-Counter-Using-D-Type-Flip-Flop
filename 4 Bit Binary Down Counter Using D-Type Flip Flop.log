@@ -1,0 +1,12 @@
+LTspice 24.0.12 for Windows
+Circuit: * D:\LTspice_Project\4 Bit Binary Down Counter Using D-Type Flip Flop.asc
+Start Time: Wed Feb 12 12:33:01 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Less than two connections to node vout.  This node is used by a4.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.240 seconds.
+
